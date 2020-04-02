@@ -1,13 +1,11 @@
 ### 02/04/2020
 
-### Udacity Github project
-
-### Description
-Describe what your project is about and what it does
+### Udacity Git project
+Udacity git project
 
 ### Files used
-Include the files used
+We are using datafile1.csv and datafile2.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits go to Udacity
 
