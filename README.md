@@ -1,7 +1,6 @@
 ### 02/04/2020
 
-### Project Title
-Replace the Project Title
+### Udacity Github project
 
 ### Description
 Describe what your project is about and what it does
